@@ -11,6 +11,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 | Projekt | Kurzbeschreibung |
 |---|---|
 | [KI-CAD-Assistent für Rhino 8](https://github.com/Piibo/portfolio/tree/main/projekte/ki-cad-assistent) | Masterarbeit: Chat-Assistent mit Human-in-the-Loop-Werkzeugen (Slider, Selektion, Skizzen) — React/TypeScript + Python/FastAPI + Anthropic API, evaluiert in einer Nutzerstudie (n = 8) |
+| [SpiceDispenser](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) | KI-gesteuerter Gewürzautomat: lokales LLM bestimmt Gewürze + Mengen zu einem Gericht, ESP32-Maschine dosiert — C++/ESP32 + Python/Ollama/Whisper ([Video](https://youtu.be/Efl0KOGhpKA)) |
 
 *(Das Portfolio wächst — weitere Projekte folgen.)*
 
@@ -18,7 +19,8 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 
 - **Frontend:** TypeScript, React, Vite, Zustand, Tailwind CSS
 - **Backend:** Python, FastAPI, WebSockets, REST, SQLite
-- **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use/Function-Calling, Prompt-Design, MCP
+- **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use/Function-Calling, Prompt-Design, MCP, lokale Modelle (Ollama, Whisper)
+- **Embedded:** C++ auf ESP32 (Arduino-Framework, PlatformIO)
 - **Testing:** pytest, Vitest, eigene Validierungs- und Regressionsskripte
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
 - **Sonstiges:** Git, Rhino 8 / RhinoCommon / Grasshopper, 3D-Geometrie-Grundlagen
