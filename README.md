@@ -25,6 +25,5 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 
 ## 📫 Kontakt
 
-<!-- TODO: Kontaktwege eintragen, z. B.: -->
-<!-- - LinkedIn: https://www.linkedin.com/in/DEIN-PROFIL -->
-<!-- - E-Mail: deine@adresse.de -->
+- E-Mail: [p.trenkle@web.de](mailto:p.trenkle@web.de)
+- LinkedIn: [linkedin.com/in/peter-trenkle-500287223](https://www.linkedin.com/in/peter-trenkle-500287223)
