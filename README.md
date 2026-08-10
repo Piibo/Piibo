@@ -14,6 +14,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 | [SpiceDispenser](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) | KI-gesteuerter Gewürzautomat: lokales LLM bestimmt Gewürze + Mengen zu einem Gericht, ESP32-Maschine dosiert — C++/ESP32 + Python/Ollama/Whisper ([Video](https://youtu.be/Efl0KOGhpKA)) |
 | [Sendlingers Escape](https://github.com/Piibo/portfolio/tree/main/projekte/sendlingers-escape) | Escape-Game in der Unreal Engine (Teamprojekt, LMU-Game-Development-Praktikum) — 3D-Objekt-Arbeit und erstes Rätsel ([Video](https://youtu.be/RlHncoayMY8)) |
 | [Bloomie](https://github.com/Piibo/portfolio/tree/main/projekte/bloomie) | Gestengesteuerte Schreibtischlampe an einem Roboterarm (HRI-Teamprojekt) — Lichtsystem mit verstellbarem Lichtkegel (bewegliche Linse) + LED-Hardware |
+| [IntelliTrack](https://github.com/Piibo/portfolio/tree/main/projekte/intellitrack) | Indoor-Ortung per WiFi-Fingerprinting: ML-Modell sagt den Raum aus WLAN-Signalstärken vorher, 92 % Genauigkeit (Teamprojekt, LMU) |
 
 *(Das Portfolio wächst — weitere Projekte folgen.)*
 
@@ -22,6 +23,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 - **Frontend:** TypeScript, React, Vite, Zustand, Tailwind CSS
 - **Backend:** Python, FastAPI, WebSockets, REST, SQLite
 - **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use/Function-Calling, Prompt-Design, MCP, lokale Modelle (Ollama, Whisper)
+- **Machine Learning:** klassische Klassifikationsmodelle (XGBoost, Random Forest), Feature Engineering, Kreuzvalidierung
 - **Embedded & Hardware:** C++ auf ESP32 (Arduino-Framework, PlatformIO), Hardware-Prototyping (LEDs, Aktorik, Optik)
 - **Testing:** pytest, Vitest, eigene Validierungs- und Regressionsskripte
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
