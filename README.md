@@ -15,6 +15,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 | [Sendlingers Escape](https://github.com/Piibo/portfolio/tree/main/projekte/sendlingers-escape) | Escape-Game in der Unreal Engine (Teamprojekt, LMU-Game-Development-Praktikum) — 3D-Objekt-Arbeit und erstes Rätsel ([Video](https://youtu.be/RlHncoayMY8)) |
 | [Bloomie](https://github.com/Piibo/portfolio/tree/main/projekte/bloomie) | Gestengesteuerte Schreibtischlampe an einem Roboterarm (HRI-Teamprojekt) — Lichtsystem mit verstellbarem Lichtkegel (bewegliche Linse) + LED-Hardware |
 | [IntelliTrack](https://github.com/Piibo/portfolio/tree/main/projekte/intellitrack) | Indoor-Ortung per WiFi-Fingerprinting: ML-Modell sagt den Raum aus WLAN-Signalstärken vorher, 92 % Genauigkeit (Teamprojekt, LMU) |
+| [Nüslify](https://github.com/Piibo/portfolio/tree/main/projekte/nueslify) | Persönliches KI-Radio: KI-kuratierte News + eigene Spotify-Musik als PWA (Teamprojekt) — Next.js/TypeScript/tRPC, live auf Vercel |
 
 *(Das Portfolio wächst — weitere Projekte folgen.)*
 
