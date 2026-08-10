@@ -12,6 +12,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 |---|---|
 | [KI-CAD-Assistent für Rhino 8](https://github.com/Piibo/portfolio/tree/main/projekte/ki-cad-assistent) | Masterarbeit: Chat-Assistent mit Human-in-the-Loop-Werkzeugen (Slider, Selektion, Skizzen) — React/TypeScript + Python/FastAPI + Anthropic API, evaluiert in einer Nutzerstudie (n = 8) |
 | [SpiceDispenser](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) | KI-gesteuerter Gewürzautomat: lokales LLM bestimmt Gewürze + Mengen zu einem Gericht, ESP32-Maschine dosiert — C++/ESP32 + Python/Ollama/Whisper ([Video](https://youtu.be/Efl0KOGhpKA)) |
+| [Sendlingers Escape](https://github.com/Piibo/portfolio/tree/main/projekte/sendlingers-escape) | Escape-Game in der Unreal Engine (Teamprojekt, LMU-Game-Development-Praktikum) — 3D-Objekt-Arbeit und erstes Rätsel ([Video](https://youtu.be/RlHncoayMY8)) |
 
 *(Das Portfolio wächst — weitere Projekte folgen.)*
 
@@ -23,7 +24,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 - **Embedded:** C++ auf ESP32 (Arduino-Framework, PlatformIO)
 - **Testing:** pytest, Vitest, eigene Validierungs- und Regressionsskripte
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
-- **Sonstiges:** Git, Rhino 8 / RhinoCommon / Grasshopper, 3D-Geometrie-Grundlagen
+- **Sonstiges:** Git, Rhino 8 / RhinoCommon / Grasshopper, Unreal Engine, 3D-Modellierung
 
 ## 📫 Kontakt
 
