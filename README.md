@@ -4,6 +4,8 @@ Frisch abgeschlossener **M.Sc. Medieninformatik** (LMU München, 2026) mit Schwe
 
 Was mich ausmacht: Ich verbinde Nutzerforschung mit eigener Umsetzung. Für meine Masterarbeit habe ich einen chatbasierten KI-CAD-Assistenten als Full-Stack-Anwendung eigenständig konzipiert, gebaut und in einer Nutzerstudie mit acht Teilnehmenden wissenschaftlich evaluiert.
 
+> **🇬🇧 English:** M.Sc. Media Informatics graduate (LMU Munich, 2026) looking for a first role as UX Engineer, frontend/full-stack developer, or AI application engineer. For my master's thesis I designed, built, and scientifically evaluated a chat-based AI CAD assistant as a full-stack application (React/TypeScript + Python/FastAPI + Anthropic API). My portfolio below is documented in German — happy to talk through it in English.
+
 ## 📁 Portfolio
 
 Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/portfolio](https://github.com/Piibo/portfolio)**
