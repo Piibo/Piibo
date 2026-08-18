@@ -12,9 +12,11 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 |---|---|
 | [KI-CAD-Assistent für Rhino 8](https://github.com/Piibo/portfolio/tree/main/projekte/ki-cad-assistent) | Masterarbeit: Chat-Assistent mit Human-in-the-Loop-Werkzeugen (Slider, Selektion, Skizzen) — React/TypeScript + Python/FastAPI + Anthropic API, evaluiert in einer Nutzerstudie (n = 8) |
 | [SpiceDispenser](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) | KI-gesteuerter Gewürzautomat: lokales LLM bestimmt Gewürze + Mengen zu einem Gericht, ESP32-Maschine dosiert — C++/ESP32 + Python/Ollama/Whisper ([Video](https://youtu.be/Efl0KOGhpKA)) |
+| [E-Mission Z](https://github.com/Piibo/portfolio/tree/main/projekte/e-mission-z) | Interaktives Dashboard zu Verkehr und CO₂-Emissionen der Bundesländer 2011–2021 (Teamprojekt, LMU): Karte, Zeitreihe und Verkehrsmittel-Aufteilung als verknüpfte Ansichten — von mir Zeitreihen-Diagramm, Zeitraum-Slider und die Kopplung der Ansichten, React/D3/Recharts ([live](https://www.cip.ifi.lmu.de/~wildva/infovis/)) |
 | [Sendlingers Escape](https://github.com/Piibo/portfolio/tree/main/projekte/sendlingers-escape) | Escape-Game in der Unreal Engine (Teamprojekt, LMU-Game-Development-Praktikum) — 3D-Objekt-Arbeit und erstes Rätsel ([Video](https://youtu.be/RlHncoayMY8)) |
 | [Bloomie](https://github.com/Piibo/portfolio/tree/main/projekte/bloomie) | Gestengesteuerte Schreibtischlampe an einem Roboterarm (HRI-Teamprojekt, LMU) — Lampenkopf mit verstellbarem Lichtkegel (Zoom-Objektiv-Mechanik, 3D-Druck) + LED-Hardware |
 | [IntelliTrack](https://github.com/Piibo/portfolio/tree/main/projekte/intellitrack) | Indoor-Ortung per WiFi-Fingerprinting: ML-Modell sagt den Raum aus WLAN-Signalstärken vorher, 92 % Genauigkeit (Teamprojekt, LMU) — Android-App-Dashboard von mir |
+| [GRAB-E](https://github.com/Piibo/portfolio/tree/main/projekte/grab-e) | Simulierter 5-Achsen-Greifarm, der per Reinforcement Learning greifen lernt — selbst implementierte SAC/TD3/DDPG gegen Standard-Baselines (Teamprojekt, LMU) — mein Part: Trainings- und Auswertungsinfrastruktur (Seeding, Logging, Baseline-Läufe), Python/PyTorch/Unity ML-Agents |
 | [kemptAInability](https://github.com/Piibo/portfolio/tree/main/projekte/kemptainability) | Interaktive Verkehrsfluss-Simulation für Kempten (Teamprojekt, sustAInability-Seminar HM+TUM): Straßen sperren, Auswirkungen auf Stau/Lärm/CO₂ live sehen — meine Rolle: die Datenpipeline (OSM → SUMO → GeoJSON) |
 | [Nüslify](https://github.com/Piibo/portfolio/tree/main/projekte/nueslify) | Persönliches KI-Radio: KI-kuratierte News + eigene Spotify-Musik als PWA (Teamprojekt) — mein Part: Interessen-Feature (UI bis DB) + Player-UI, Next.js/TypeScript/tRPC |
 
@@ -23,9 +25,11 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 ## 🛠️ Technologien
 
 - **Frontend:** TypeScript, React, Vite, Zustand, Tailwind CSS
+- **Datenvisualisierung:** D3, Recharts, GeoJSON-Karten, verknüpfte Ansichten (Brushing & Linking)
 - **Backend:** Python, FastAPI, WebSockets, REST, SQLite
 - **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use/Function-Calling, Prompt-Design, MCP, lokale Modelle (Ollama, Whisper)
 - **Machine Learning:** klassische Klassifikationsmodelle (XGBoost, Random Forest), Feature Engineering, Kreuzvalidierung
+- **RL-Experimente:** PyTorch, Stable-Baselines3, Unity ML-Agents — Trainingsläufe, Seeding und Reproduzierbarkeit, Auswertung
 - **Embedded & Hardware:** C++ auf ESP32 (Arduino-Framework, PlatformIO), Hardware-Prototyping (LEDs, Aktorik, Optik)
 - **Testing:** pytest, Vitest, eigene Validierungs- und Regressionsskripte
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
