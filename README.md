@@ -1,10 +1,10 @@
 # Hallo, ich bin Peter 👋
 
-Frisch abgeschlossener **M.Sc. Medieninformatik** (LMU München, 2026) mit Schwerpunkt auf Mensch-Computer-Interaktion und KI-gestützten Werkzeugen. Ich suche meinen Berufseinstieg als **UX Engineer**, **Frontend-/Fullstack-Entwickler** oder **AI Application Engineer**.
+**M.Sc. Medieninformatik** an der LMU München (Abschluss vorauss. 2026, Masterarbeit abgegeben) mit Schwerpunkt auf Mensch-Computer-Interaktion und KI-gestützten Werkzeugen. Ich suche meinen Berufseinstieg als **UX Engineer**, **Frontend-/Fullstack-Entwickler** oder **AI Application Engineer**.
 
 Was mich ausmacht: Ich verbinde Nutzerforschung mit eigener Umsetzung. Für meine Masterarbeit habe ich einen chatbasierten KI-CAD-Assistenten als Full-Stack-Anwendung eigenständig konzipiert, gebaut und in einer Nutzerstudie mit acht Teilnehmenden wissenschaftlich evaluiert.
 
-> **🇬🇧 English:** M.Sc. Media Informatics graduate (LMU Munich, 2026) looking for a first role as UX Engineer, frontend/full-stack developer, or AI application engineer. For my master's thesis I designed, built, and scientifically evaluated a chat-based AI CAD assistant as a full-stack application (React/TypeScript + Python/FastAPI + Anthropic API). My portfolio below is documented in German — happy to talk through it in English.
+> **🇬🇧 English:** M.Sc. Media Informatics at LMU Munich (thesis submitted, graduating 2026), looking for a first role as UX Engineer, frontend/full-stack developer, or AI application engineer. For my master's thesis I designed, built, and scientifically evaluated a chat-based AI CAD assistant as a full-stack application (React/TypeScript + Python/FastAPI + Anthropic API). My portfolio below is documented in German — happy to talk through it in English.
 
 ## 📁 Portfolio
 
@@ -16,7 +16,7 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 | [SpAice](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) | KI-gesteuerter Gewürzautomat, komplett selbst konstruiert und gebaut (CAD/3D-Druck): lokales LLM bestimmt Gewürze + Mengen zu einem Gericht, die Maschine dosiert — C++/ESP32 + Python/Ollama/Whisper ([Video](https://youtu.be/Efl0KOGhpKA)) |
 | [VR-Interaktion im virtuellen Fahrzeug](https://github.com/Piibo/portfolio/tree/main/projekte/bachelorarbeit-vr-fahrzeug) | Bachelorarbeit (Uni Regensburg, 2023): VR-Controller vs. Handtracking beim Bedienen eines virtuellen Autos — eigener Unity-Prototyp (Meta Quest 2) und Nutzerstudie mit 17 Teilnehmenden |
 | [E-Mission Z](https://github.com/Piibo/portfolio/tree/main/projekte/e-mission-z) | Interaktives Dashboard zu Verkehr und CO₂-Emissionen der Bundesländer 2011–2021 (Teamprojekt, LMU): Karte, Zeitreihe und Verkehrsmittel-Aufteilung als verknüpfte Ansichten — von mir Zeitreihen-Diagramm, Zeitraum-Slider und die Kopplung der Ansichten, React/D3/Recharts ([live](https://www.cip.ifi.lmu.de/~wildva/infovis/)) |
-| [Nüslify](https://github.com/Piibo/portfolio/tree/main/projekte/nueslify) | Persönliches KI-Radio: KI-kuratierte News + eigene Spotify-Musik als PWA (Teamprojekt) — mein Part: Interessen-Feature (UI bis DB) + Player-UI, Next.js/TypeScript/tRPC |
+| [Nüslify](https://github.com/Piibo/portfolio/tree/main/projekte/nueslify) | Persönliches KI-Radio: KI-kuratierte News + eigene Spotify-Musik als PWA (Teamprojekt) — mein Part: Interessen-Feature (UI bis DB) + Teile der Player-UI, Next.js/TypeScript/tRPC |
 | [kemptAInability](https://github.com/Piibo/portfolio/tree/main/projekte/kemptainability) | Interaktive Verkehrsfluss-Simulation für Kempten (Teamprojekt, sustAInability-Seminar HM+TUM): Straßen sperren, Auswirkungen auf Stau/Lärm/CO₂ live sehen — meine Rolle: die Datenpipeline (OSM → SUMO → GeoJSON) |
 | [IntelliTrack](https://github.com/Piibo/portfolio/tree/main/projekte/intellitrack) | Indoor-Ortung per WiFi-Fingerprinting: ML-Modell sagt den Raum aus WLAN-Signalstärken vorher, 92 % Genauigkeit (Teamprojekt, LMU) — Android-App-Dashboard von mir |
 | [Bloomie](https://github.com/Piibo/portfolio/tree/main/projekte/bloomie) | Gestengesteuerte Schreibtischlampe an einem Roboterarm (HRI-Teamprojekt, LMU) — Lampenkopf mit verstellbarem Lichtkegel (Zoom-Objektiv-Mechanik, 3D-Druck) + LED-Hardware |
@@ -41,4 +41,4 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 ## 📫 Kontakt
 
 - E-Mail: [p.trenkle@web.de](mailto:p.trenkle@web.de)
-- LinkedIn: [linkedin.com/in/peter-trenkle-500287223](https://www.linkedin.com/in/peter-trenkle-500287223)
+- LinkedIn: [linkedin.com/in/peter-trenkle](https://www.linkedin.com/in/peter-trenkle)
