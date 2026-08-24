@@ -27,14 +27,14 @@ Ausgewählte Projekte mit Beschreibung, Screenshots und Einordnung: **[Piibo/por
 
 ## 🛠️ Technologien
 
-- **Frontend:** TypeScript, React, Vite, Zustand, Tailwind CSS
+- **Frontend:** TypeScript, React, Next.js, Vite, Zustand, Tailwind CSS
 - **Datenvisualisierung:** D3, Recharts, GeoJSON-Karten, verknüpfte Ansichten (Brushing & Linking)
-- **Backend:** Python, FastAPI, WebSockets, REST, SQLite
+- **Backend:** Python, FastAPI, WebSockets, REST, tRPC/Node.js, SQLite
 - **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use/Function-Calling, Prompt-Design, MCP, lokale Modelle (Ollama, Whisper)
 - **Machine Learning:** klassische Klassifikationsmodelle (XGBoost, Random Forest), Feature Engineering, Kreuzvalidierung
 - **RL-Experimente:** PyTorch, Stable-Baselines3, Unity ML-Agents — Trainingsläufe, Seeding und Reproduzierbarkeit, Auswertung
-- **Embedded & Hardware:** C++ auf ESP32 (Arduino-Framework, PlatformIO), Hardware-Prototyping (LEDs, Aktorik, Optik)
-- **Testing:** pytest, Vitest, eigene Validierungs- und Regressionsskripte
+- **Hardware & CAD:** C++ auf ESP32 (Arduino-Framework, PlatformIO), Fusion 360, 3D-Druck, Hardware-Prototyping (LEDs, Aktorik, Optik)
+- **Testing & Tooling:** pytest, Vitest, Docker, CI/CD (GitHub Actions), eigene Validierungs- und Regressionsskripte
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
 - **Sonstiges:** Git, Rhino 8 / RhinoCommon / Grasshopper, Unreal Engine, 3D-Modellierung, Android (Kotlin, Grundlagen)
 
