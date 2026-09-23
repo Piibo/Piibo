@@ -1,10 +1,10 @@
 # Hallo, ich bin Peter 👋
 
-**M.Sc. Medieninformatik** an der LMU München (Abschluss vorauss. 2026, Masterarbeit abgegeben) mit Schwerpunkt auf Mensch-Computer-Interaktion und KI-gestützten Werkzeugen. Ich suche meinen Berufseinstieg als **UX Engineer**, **Frontend-/Fullstack-Entwickler** oder **AI Application Engineer**.
+**M.Sc. Medieninformatik** an der LMU München (Abschluss 2026) mit Schwerpunkt auf Mensch-Computer-Interaktion und KI-gestützten Werkzeugen. Ich suche meinen Berufseinstieg als **UX Engineer**, **Frontend-/Fullstack-Entwickler** oder **AI Application Engineer**.
 
 Was mich ausmacht: Ich verbinde Nutzerforschung mit eigener Umsetzung. Für meine Masterarbeit habe ich einen chatbasierten KI-CAD-Assistenten als Full-Stack-Anwendung eigenständig konzipiert, gebaut und in einer Nutzerstudie mit acht Teilnehmenden wissenschaftlich evaluiert.
 
-> **🇬🇧 English:** M.Sc. Media Informatics at LMU Munich (thesis submitted, graduating 2026), looking for a first role as UX Engineer, frontend/full-stack developer, or AI application engineer. For my master's thesis I designed, built, and scientifically evaluated a chat-based AI CAD assistant as a full-stack application (React/TypeScript + Python/FastAPI + Anthropic API). My portfolio below is documented in German — happy to talk through it in English.
+> **🇬🇧 English:** M.Sc. Media Informatics, LMU Munich (2026), looking for a first role as UX Engineer, frontend/full-stack developer, or AI application engineer. For my master's thesis I designed, built, and scientifically evaluated a chat-based AI CAD assistant as a full-stack application (React/TypeScript + Python/FastAPI + Anthropic API). My portfolio below is documented in German — happy to talk through it in English.
 
 ## 📁 Portfolio
 
