@@ -6,9 +6,9 @@
 - [**SpAice**](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) — Gewürzautomat mit Getriebe aus dem 3D-Drucker, ESP32 und lokalem Sprachmodell · [Video](https://youtu.be/Efl0KOGhpKA)
 - [**Konstruktionen**](https://github.com/Piibo/portfolio/tree/main/projekte/konstruktionen) — 143 Teile nach Maß, konstruiert in Fusion 360 für den 3D-Druck
 
-Ich suche meinen Berufseinstieg in München, am liebsten in einem Team, das eigene Produkte entwickelt.
+Ich suche meinen Berufseinstieg in München.
 
-> **🇬🇧 English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in Munich, ideally in a team that builds its own products. My portfolio is written in German — happy to talk it through in English.
+> **🇬🇧 English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in Munich. My portfolio is written in German — happy to talk it through in English.
 
 ## 📁 Portfolio
 
