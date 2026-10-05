@@ -1,4 +1,4 @@
-# Hallo, ich bin Peter 👋
+# Hallo, ich bin Peter
 
 **M.Sc. Medieninformatik** an der LMU München (Abschluss 2026). Zuletzt gebaut:
 
@@ -8,13 +8,13 @@
 
 Ich suche meinen Berufseinstieg in München und Umgebung oder remote.
 
-> **🇬🇧 English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in or around Munich, or remote. My portfolio is written in German — happy to talk it through in English.
+> **English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in or around Munich, or remote. My portfolio is written in German — happy to talk it through in English.
 
-## 📁 Portfolio
+## Portfolio
 
 Alle elf Projekte mit Bildern, meinem Anteil und den Technologien: **[Piibo/portfolio](https://github.com/Piibo/portfolio)**
 
-## 🛠️ Technologien
+## Technologien
 
 - **Hardware & CAD:** Fusion 360, 3D-Druck, C++ auf ESP32 (Arduino-Framework, PlatformIO), Rhino 8 / Grasshopper
 - **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, D3
@@ -25,7 +25,7 @@ Alle elf Projekte mit Bildern, meinem Anteil und den Technologien: **[Piibo/port
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
 - **Werkzeuge:** Git, Docker, CI/CD (GitHub Actions), pytest, Vitest
 
-## 📫 Kontakt
+## Kontakt
 
 - E-Mail: [p.trenkle@web.de](mailto:p.trenkle@web.de)
 - LinkedIn: [linkedin.com/in/peter-trenkle](https://www.linkedin.com/in/peter-trenkle)
