@@ -20,7 +20,8 @@ Alle elf Projekte mit meinem Beitrag und den eingesetzten Technologien: **[Piibo
 - **Frontend:** TypeScript, React, Next.js, Vite, Tailwind CSS, D3
 - **Backend:** Python, FastAPI, WebSockets, REST, SQLite
 - **KI/LLM:** Anthropic API, Agent-Loops, Tool-Use, MCP, lokale Modelle (Ollama, Whisper)
-- **Machine Learning:** XGBoost, Random Forest, PyTorch, Stable-Baselines3
+- **Android:** Kotlin
+- **Machine Learning:** PyTorch, Stable-Baselines3 (Reinforcement Learning)
 - **3D & VR:** Blender, Unity, Unreal Engine, Meta Quest
 - **UX-Research:** Studiendesign, qualitative Interviews, thematische Analyse
 - **Werkzeuge:** Git, Docker, CI/CD (GitHub Actions), pytest, Vitest
