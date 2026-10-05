@@ -8,11 +8,11 @@
 
 Ich suche meinen Berufseinstieg in München und Umgebung oder remote.
 
-> **English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in or around Munich, or remote. My portfolio is written in German — happy to talk it through in English.
+> **English:** M.Sc. Media Informatics, LMU Munich (2026). Recently built: an AI assistant for the CAD software Rhino 8 (master's thesis, evaluated in a user study), an AI-powered spice dispenser (3D-printed gear drive, ESP32, local LLM), and 143 custom parts designed in Fusion 360 for 3D printing. Looking for a first role in or around Munich, or remote. My portfolio is written in German — happy to walk you through it in English.
 
 ## Portfolio
 
-Alle elf Projekte mit Bildern, meinem Anteil und den Technologien: **[Piibo/portfolio](https://github.com/Piibo/portfolio)**
+Alle elf Projekte mit meinem Beitrag und den eingesetzten Technologien: **[Piibo/portfolio](https://github.com/Piibo/portfolio)**
 
 ## Technologien
 
