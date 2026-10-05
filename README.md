@@ -2,7 +2,7 @@
 
 **M.Sc. Medieninformatik** an der LMU München (Abschluss 2026). Zuletzt gebaut:
 
-- [**KI-CAD-Assistent für Rhino 8**](https://github.com/Piibo/portfolio/tree/main/projekte/ki-cad-assistent) — Masterarbeit: Möbel in der CAD-Software Rhino per Chat, Klick, Regler und Skizze modellieren, evaluiert in einer Nutzerstudie · [Code](https://github.com/Piibo/rhino-ai-cad-assistant)
+- [**KI-CAD-Assistent für Rhino 8**](https://github.com/Piibo/portfolio/tree/main/projekte/ki-cad-assistent) — Masterarbeit: Möbel in der CAD-Software Rhino per Chat, Klick, Regler und Skizze modellieren, evaluiert in einer Nutzerstudie · [Code](https://github.com/Piibo/rhino-ai-cad-assistant) · [Video](https://youtu.be/Qb64zsemRec)
 - [**SpAice**](https://github.com/Piibo/portfolio/tree/main/projekte/spice-dispenser) — Gewürzautomat mit Getriebe aus dem 3D-Drucker, ESP32 und lokalem Sprachmodell · [Video](https://youtu.be/Efl0KOGhpKA)
 - [**Konstruktionen**](https://github.com/Piibo/portfolio/tree/main/projekte/konstruktionen) — 143 Teile nach Maß, konstruiert in Fusion 360 für den 3D-Druck
 
